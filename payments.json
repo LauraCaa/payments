@@ -1,0 +1,18 @@
+{
+  "paymentMethods": [
+    {
+      "type": "Visa",
+      "holderName": "Angelina Gotelli",
+      "lastFour": "0392",
+      "isPrimary": true,
+      "expirationDate": "Dec 2025"
+    },
+    {
+      "type": "Mastercard",
+      "holderName": "Angelina Gotelli",
+      "lastFour": "8461",
+      "isPrimary": false,
+      "expirationDate": "Jun 2025"
+    }
+  ]
+}

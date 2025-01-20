@@ -1,0 +1,19 @@
+**Payments Table**
+This is a simple project that shows a table of payment methods using React. Payment details are loaded from a local JSON file, and presented in a table with details such as the cardholder’s name, the last 4 digits of the card, and its status as "Primary" if applicable.
+
+**Project structure**
+index.html: Contains the basic structure of the page, including the container where the React component will be mounted.
+payments.json: JSON file containing the payment method information (this file must be available for the project to work properly).
+styles.css: File of styles that defines the appearance of the table and other visual elements.
+JavaScript React: The application logic code is written in JSX and transcrated into the browser using Babel.
+
+**Technologies**
+React: Used to build the user interface in a declarative way.
+Babel: Allows you to use JSX in the browser and transfile it to standard JavaScript.
+CSS: Basic styles to improve the presentation.
+
+#### Getting Started:
+To run this project locally:
+1. Clone this repository to your local machine.
+2. Open the `index.html` file 
+3. Right-click on the `index.html` file and select "Open with Live Server".
